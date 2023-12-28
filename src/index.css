@@ -1,7 +1,8 @@
 body {
-  padding: 50px;
-  background-color: #66CCFF;
   font-family: sans-serif;
+  font:bold;
+  background-image:linear-gradient(rgba(64, 180, 242, 0.7),rgba(208, 212, 214, 0.7)),url("C:\Users\manik\Downloads\cartoon-man-with-to-do-list-on-clipboard-vector.jpg");
+  background-size: 1150px 600px ; /* Optional: Adjust the background size */
 }
 #container {
   display: flex;
@@ -36,7 +37,7 @@ body {
 } 
 .todoListMain .theList li {
   color: #333;
-  background-color: rgba(255,255,255,.5);
+  background-color:  #18246f;
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 5px;
@@ -47,7 +48,7 @@ ul.theList {
 }
 .todoListMain .theList li {
   color: #333;
-  background-color: rgba(255,255,255,.5);
+  background-color: #d9d9d9;
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 5px;
@@ -56,6 +57,6 @@ ul.theList {
 }
  
 .todoListMain .theList li:hover {
-  background-color: pink;
+  background-color:rgb(131, 220, 110) ;
   cursor: pointer;
 }
