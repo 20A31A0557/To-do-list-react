@@ -37,7 +37,7 @@ npm run storybook
 ```
 
 After a few seconds, your storybook should be accessible at the address
-[http://localhost:6006/](http://localhost:6006/)
+[http://localhost:6006/](http://localhost:3000/)
 
 You can build your storybook for release with:
 
