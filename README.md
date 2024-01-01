@@ -1,5 +1,5 @@
 # To-do-list-react
-   This to do application is build using React
+   This ToDo  application is build using React
 ## Getting started
 
 > **Prerequisites:**
